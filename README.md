@@ -1,6 +1,6 @@
 # thesis_fx_pred
 
-<p>Bachelor Thesis: "Predicting Foreign Exchange Rates with Machine Learning" </p>
+<p><b>Bachelor Thesis: "Predicting Foreign Exchange Rates with Machine Learning" </b></p>
 
  <p> University:   Albert-Ludwigs-Universität Freiburg</p>
  <p> Degree:       B.Sc. Volkswirtschaftslehre</p>
