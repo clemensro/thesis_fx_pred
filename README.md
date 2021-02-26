@@ -1,6 +1,6 @@
 # thesis_fx_pred
 
-Bachelor Thesis: "Predicting Foreign Exchange Rates with Machine Learning"
+Bachelor Thesis: "Predicting Foreign Exchange Rates with Machine Learning" 
 
   University:   Albert-Ludwigs-Universität Freiburg
   Degree:       B.Sc. Volkswirtschaftslehre
