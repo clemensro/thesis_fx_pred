@@ -12,6 +12,6 @@ For my studies I used three curreny pairs: EURGBP, EURUSD and EURJPY
 
 
 
-The Abstract and full Thesis can be seen in the pdf "Predicting_Foreign_Excange_Rates_with_Machine_Learning"
+The Abstract and full Thesis can be seen in the pdf "Predicting_Foreign_Excange_Rates_with_Machine_Learning".
 
 
